@@ -1,16 +1,13 @@
 ---
 
 ---
-# Welcome 🍻 <br>
-# Dhafin R. Juliawan's OS Page 💻
+# Welcome 🍻 <br>  Dhafin R. Juliawan's OS Page 💻
 <br>
-<hr>
 
-[LINKS](https://github.com/dhafinn/os222/LINKS/) ---
+[LINKS]((https://dhafinn.github.io/os222/LINKS/) ---
 [LOG](TXT/mylog.txt) ---
-[GITHUB](https://github.com/dhafinn/os222)---
+[GITHUB](https://github.com/dhafinn/os222)
 <br>
-<hr>
 
 <br>
 <hr>

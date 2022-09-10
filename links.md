@@ -1,10 +1,10 @@
 ---
-
+permalink: /LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">USEFUL LINKS RESOURCES</span><br>
 <span style="color:red; font-weight:bold; font-size:large;">by Dhafin R. Juliawan</span>
 <br><br>
-[HOME](https://dhafinn.github.io/os222) ---
+[HOME](https://dhafinn.github.io/os222)
 <br>
 <hr>
 
