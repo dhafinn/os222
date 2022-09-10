@@ -1,12 +1,12 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Dhafin R. Juliawan</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[HOME](https://github.com/dhafinn/os222/) ---
+[LINKS](https://github.com/dhafinn/os222/LINKS/) ---
+[LOG](https://github.com/dhafinn/os222/blob/master/TXT/mylog.txt) ---
+[GITHUB](https://github.com/dhafinn/os222)
 <br>
 <hr>
 
@@ -19,6 +19,6 @@ It'll help you get better at Linux commands in no time!
 
 <br>
 <hr>
-&copy; {{ dhafin all rights reserved }} --- {{ Dhafin R. Juliawan }} --- Version: {{ 1.0 }}.
+&copy; Dhafin All Rights Reserved  ---  Dhafin R. Juliawan  --- Version:  1.0 .
 <hr>
 <br>
