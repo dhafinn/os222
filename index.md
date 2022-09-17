@@ -1,14 +1,13 @@
 ---
 
 ---
-# Welcome 🍻 <br>  Dhafin R. Juliawan's OS Page 💻
+# Dhafin R. Juliawan's OS Page 💻
+## Welcome
 <br>
 
-[LINKS](https://dhafinn.github.io/os222/LINKS/)|[LOG](TXT/mylog.txt)|[GITHUB](https://github.com/dhafinn/os222)
+[HOME](.) | [LINKS](https://dhafinn.github.io/os222/LINKS/) | [LOG](TXT/mylog.txt) | [GITHUB](https://github.com/dhafinn/os222)
 <br>
+Please feel free to travel around my OS page, and always have a nice day!
+<br>
+<hr>
 
-<br>
-<hr>
-&copy; All Rights Reserved  ---  Dhafin R. Juliawan  --- Version:  1.0
-<hr>
-<br>
