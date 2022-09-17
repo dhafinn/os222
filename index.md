@@ -9,5 +9,4 @@
 <br>
 Please feel free to travel around my OS page, and always have a nice day!
 <br>
-<hr>
 
