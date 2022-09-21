@@ -52,8 +52,10 @@ This link explains well about filesystem in OS.
 Compact and easy to understand makes this a must read!<br>
 2. [Linux File System Basic](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
 This link is about File System Basic in Linux. <br>
- 
+3. [What is FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+A good documentation page about the definition of FUSE, type, mount option, and many more!
+Reading this page will help you with your understanding of FUSE
+
 <br>
 <hr>
-
 
