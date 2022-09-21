@@ -46,5 +46,14 @@ The website maybe looked a little bit outdated, but i think the contents are top
 This link will helps you code faster using C. It provides you with useful keywords and shortcuts
 that will 100% helps you in OS class.<br>
 
+## Week 03
+1. [File System in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+This link explains well about filesystem in OS. 
+Compact and easy to understand makes this a must read!<br>
+2. [Linux File System Basic](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+This link is about File System Basic in Linux. <br>
+ 
 <br>
 <hr>
+
+
