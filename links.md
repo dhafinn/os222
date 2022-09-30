@@ -54,7 +54,20 @@ Compact and easy to understand makes this a must read!<br>
 This link is about File System Basic in Linux. <br>
 3. [What is FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 A good documentation page about the definition of FUSE, type, mount option, and many more!
-Reading this page will help you with your understanding of FUSE
+Reading this page will help you with your understanding of FUSE<br>
+
+## Week 03
+1. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
+Explaining about Memory Management is the process of controlling and coordinating computer memory.
+You will understand the basic of memory management in OS after reading this!<br>
+2. [Memory Mapping in Linux](https://www.youtube.com/watch?v=8hVLcyBkSXY)<br>
+All about memory mapping in linux compressed into 22 minutes video.
+A must watch! <br>
+3. [What is Endianness](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)<br>
+Have you ever get confused between little and big endian? 
+Worry not cause this link is gonna be your savior.<br>
+4. [Static Libraries vs Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This link carefully explain about how dynamic and static libraries work in C programs.
 
 <br>
 <hr>
