@@ -56,7 +56,7 @@ This link is about File System Basic in Linux. <br>
 A good documentation page about the definition of FUSE, type, mount option, and many more!
 Reading this page will help you with your understanding of FUSE<br>
 
-## Week 03
+## Week 04
 1. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
 Explaining about Memory Management is the process of controlling and coordinating computer memory.
 You will understand the basic of memory management in OS after reading this!<br>
@@ -68,6 +68,18 @@ Have you ever get confused between little and big endian?
 Worry not cause this link is gonna be your savior.<br>
 4. [Static Libraries vs Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
 This link carefully explain about how dynamic and static libraries work in C programs.
+
+## Week 05
+1. [Virtual Memory in OS](https://www.scaler.com/topics/operating-system/virtual-memory-in-os/)<br>
+Containing a complete overview of virtual memory in Operating Syster!<br>
+2. [What are Demand-Paging and Pre-Paging in OS](https://www.javatpoint.com/what-are-demand-paging-and-pre-paging#:~:text=What%20is%20Demand%20Paging%20in,when%20the%20CPU%20requires%20it.)<br>
+One of the concept implemented in virtual memory. You'll understand how demand-paging and pre-paging
+better after reading this.<br>
+3. [Swapping in Virtual Memory](https://www.javatpoint.com/swapping-in-operating-system#:~:text=Swap%2Dout%20is%20a%20method,the%20main%20memory%20or%20RAM.)<br>
+Swapping in Virtual Memory. This links include the way RAM acts when a different situation occurs<br>
+4. [Page Table in Virtual Memory](https://www.javatpoint.com/os-page-table)<br>
+Explains how virtual memory system store the mapping between logical addresses and physical addresses.
+A must read!<br>
 
 <br>
 <hr>
