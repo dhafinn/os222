@@ -65,3 +65,12 @@ ZCZC W05 20 L64 Helping a friend (OS related problem)
 ZCZC W05 65 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 100 L00 Offline meeting
 ZCZC W05 80 L15 Assignment #05
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 70 L04 GitHub Pages related
+ZCZC W06 70 L05 Quiz related including studying
+ZCZC W06 450 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with Asdos
+ZCZC W06 20 L64 Helping a friend (OS related problem)
+ZCZC W06 65 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 80 L16 Assignment #06

@@ -81,6 +81,12 @@ Swapping in Virtual Memory. This links include the way RAM acts when a different
 Explains how virtual memory system store the mapping between logical addresses and physical addresses.
 A must read!<br>
 
+## Week 06
+1. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+This link will give you a perfect explanation thoroughly <br>
+2. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+Concurrency is the execution of the multiple instruction sequences at the same time.
+Learn about it here! <br>
 <br>
 <hr>
 
