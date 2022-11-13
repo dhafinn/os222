@@ -87,6 +87,15 @@ This link will give you a perfect explanation thoroughly <br>
 2. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 Concurrency is the execution of the multiple instruction sequences at the same time.
 Learn about it here! <br>
+
+## Week 07
+1. [Deadlock in OS](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+A deadlock in OS is a situation in which more than one process is blocked because it is holding a resource and also requires some resource that is acquired by some other process.
+If you want to know about it better, this link should help you <br>
+2. [Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+A complete link that explain the process synchronization in operating system.<br>
+3. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+A video that helps you with the overview of process synchronization.<br>
 <br>
 <hr>
 
