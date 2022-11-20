@@ -96,6 +96,10 @@ If you want to know about it better, this link should help you <br>
 A complete link that explain the process synchronization in operating system.<br>
 3. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
 A video that helps you with the overview of process synchronization.<br>
+
+## Week 08
+1. [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+This book is all you need for week 08. Biblical.<br>
 <br>
 <hr>
 
