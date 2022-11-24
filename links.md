@@ -100,6 +100,19 @@ A video that helps you with the overview of process synchronization.<br>
 ## Week 08
 1. [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
 This book is all you need for week 08. Biblical.<br>
+
+## Week 09
+1. [What is GRUB in Linux](https://www.tutorialspoint.com/what-is-grub-in-linux)<br>
+GRUB is the default bootloader for many of the Linux distributions..
+Compact and easy to understand, are the reason why I think everyone should read this.
+It'll help you get better at Linux commands in no time!<br>
+2. [Understanding the Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)<br>
+GRUB is the default bootloader for many of the Linux distributions..
+Compact and easy to understand, are the reason why I think everyone should read this.
+It'll help you get better at Linux commands in no time!A brief explanation about linux boot process to help you understand the basic.
+A must watch!<br>
+<br>
+
 <br>
 <hr>
 
